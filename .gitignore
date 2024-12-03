@@ -6,6 +6,7 @@ DerivedData/
 .swiftpm/configuration/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
+.vscode/
 lcov.info
 Package.resolved
 Sources/Data/Day*.txt
